@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T15:54:17.027Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="yUVTjNXcwSxgsX603jOW" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T16:13:23.849Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="95vuSz5nQDc9czlfRs0C" version="13.11.0" type="github">
   <diagram id="RYV5Dg4ML3ZZ4AlpleDK" name="Page-1">
     <mxGraphModel dx="946" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="wL_abTUQhFIqTPoKVArb-16" value="kafka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="455" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wL_abTUQhFIqTPoKVArb-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wL_abTUQhFIqTPoKVArb-17" value="k8s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="455" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wL_abTUQhFIqTPoKVArb-18" value="gerrit集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -67,7 +67,7 @@
         <mxCell id="wL_abTUQhFIqTPoKVArb-22" value="测试中心集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="360" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wL_abTUQhFIqTPoKVArb-23" value="k8s集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wL_abTUQhFIqTPoKVArb-23" value="部署中心集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="360" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wL_abTUQhFIqTPoKVArb-24" value="日志中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -87,6 +87,18 @@
         </mxCell>
         <mxCell id="wL_abTUQhFIqTPoKVArb-29" value="监控中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="520" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wL_abTUQhFIqTPoKVArb-30" value="私有云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wL_abTUQhFIqTPoKVArb-31" value="阿里云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wL_abTUQhFIqTPoKVArb-32" value="电信云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wL_abTUQhFIqTPoKVArb-33" value="移动云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
